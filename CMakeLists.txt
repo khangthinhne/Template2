@@ -4,7 +4,7 @@ project(game)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-set(RAYLIB_PATH "C:\\Users\\HP\\Desktop\\raylib-5.5_win64_mingw-w64")
+set(RAYLIB_PATH "C:\\raylib")
 
 include_directories(${RAYLIB_PATH}/include)
 link_directories(${RAYLIB_PATH}/lib)
