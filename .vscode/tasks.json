@@ -11,8 +11,8 @@
                 "src/main.cpp",
                 "func/dino.cpp",
                 "-Iinclude",
-                "-I\"C:/raylib/include\"",
-                    "-L\"C:/raylib/lib\"", // Thay thế bằng đường dẫn thực tế
+                // "-I\"C:/raylib/include\"",
+                //     "-L\"C:/raylib/lib\"", 
                 "-lraylib",
                 "-lopengl32",
                 "-lgdi32",

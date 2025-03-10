@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Project/MySnakeGame/func/dino.cpp" "CMakeFiles/game.dir/func/dino.cpp.obj" "gcc" "CMakeFiles/game.dir/func/dino.cpp.obj.d"
-  "D:/Project/MySnakeGame/src/main.cpp" "CMakeFiles/game.dir/src/main.cpp.obj" "gcc" "CMakeFiles/game.dir/src/main.cpp.obj.d"
+  "D:/Project/TemplateRaylib/Template/func/dino.cpp" "CMakeFiles/game.dir/func/dino.cpp.obj" "gcc" "CMakeFiles/game.dir/func/dino.cpp.obj.d"
+  "D:/Project/TemplateRaylib/Template/src/main.cpp" "CMakeFiles/game.dir/src/main.cpp.obj" "gcc" "CMakeFiles/game.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

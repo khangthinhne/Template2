@@ -1,5 +1,6 @@
-CMakeFiles/game.dir/src/main.cpp.obj: D:\Project\MySnakeGame\src\main.cpp \
- C:/Users/HP/Desktop/raylib-5.5_win64_mingw-w64/include/raylib.h \
+CMakeFiles/game.dir/src/main.cpp.obj: \
+ D:\Project\TemplateRaylib\Template\src\main.cpp \
+ D:/Project/TemplateRaylib/Template/build/_deps/raylib-src/src/raylib.h \
  C:/SFML/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/SFML/mingw64/x86_64-w64-mingw32/include/stdarg.h \
  C:/SFML/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -8,4 +9,4 @@ CMakeFiles/game.dir/src/main.cpp.obj: D:\Project\MySnakeGame\src\main.cpp \
  C:/SFML/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
  C:/SFML/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
  C:/SFML/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- D:/Project/MySnakeGame/include/dino.h
+ D:/Project/TemplateRaylib/Template/include/dino.h
