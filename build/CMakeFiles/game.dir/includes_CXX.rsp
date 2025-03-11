@@ -1,1 +1,1 @@
--ID:/Project/TemplateRaylib/Template/include -I"D:/Project/TemplateRaylib/Template/build/_deps/raylib-src/src" -I"D:/Project/TemplateRaylib/Template/build/_deps/raylib-src/src/external/glfw/include"
+-ID:/Project/Template/./include/raylib/include -ID:/Project/Template/include

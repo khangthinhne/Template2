@@ -52,10 +52,10 @@ RM = C:\SFML\mingw64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Project\TemplateRaylib\Template
+CMAKE_SOURCE_DIR = D:\Project\Template
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Project\TemplateRaylib\Template\build
+CMAKE_BINARY_DIR = D:\Project\Template\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/game.dir/depend.make
@@ -70,33 +70,33 @@ include CMakeFiles/game.dir/flags.make
 
 CMakeFiles/game.dir/func/dino.cpp.obj: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/func/dino.cpp.obj: CMakeFiles/game.dir/includes_CXX.rsp
-CMakeFiles/game.dir/func/dino.cpp.obj: D:/Project/TemplateRaylib/Template/func/dino.cpp
+CMakeFiles/game.dir/func/dino.cpp.obj: D:/Project/Template/func/dino.cpp
 CMakeFiles/game.dir/func/dino.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Project\TemplateRaylib\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/func/dino.cpp.obj"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/func/dino.cpp.obj -MF CMakeFiles\game.dir\func\dino.cpp.obj.d -o CMakeFiles\game.dir\func\dino.cpp.obj -c D:\Project\TemplateRaylib\Template\func\dino.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Project\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/game.dir/func/dino.cpp.obj"
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/func/dino.cpp.obj -MF CMakeFiles\game.dir\func\dino.cpp.obj.d -o CMakeFiles\game.dir\func\dino.cpp.obj -c D:\Project\Template\func\dino.cpp
 
 CMakeFiles/game.dir/func/dino.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/func/dino.cpp.i"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Project\TemplateRaylib\Template\func\dino.cpp > CMakeFiles\game.dir\func\dino.cpp.i
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Project\Template\func\dino.cpp > CMakeFiles\game.dir\func\dino.cpp.i
 
 CMakeFiles/game.dir/func/dino.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/func/dino.cpp.s"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Project\TemplateRaylib\Template\func\dino.cpp -o CMakeFiles\game.dir\func\dino.cpp.s
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Project\Template\func\dino.cpp -o CMakeFiles\game.dir\func\dino.cpp.s
 
 CMakeFiles/game.dir/src/main.cpp.obj: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/main.cpp.obj: CMakeFiles/game.dir/includes_CXX.rsp
-CMakeFiles/game.dir/src/main.cpp.obj: D:/Project/TemplateRaylib/Template/src/main.cpp
+CMakeFiles/game.dir/src/main.cpp.obj: D:/Project/Template/src/main.cpp
 CMakeFiles/game.dir/src/main.cpp.obj: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Project\TemplateRaylib\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/src/main.cpp.obj"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/src/main.cpp.obj -MF CMakeFiles\game.dir\src\main.cpp.obj.d -o CMakeFiles\game.dir\src\main.cpp.obj -c D:\Project\TemplateRaylib\Template\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Project\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/game.dir/src/main.cpp.obj"
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/game.dir/src/main.cpp.obj -MF CMakeFiles\game.dir\src\main.cpp.obj.d -o CMakeFiles\game.dir\src\main.cpp.obj -c D:\Project\Template\src\main.cpp
 
 CMakeFiles/game.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/game.dir/src/main.cpp.i"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Project\TemplateRaylib\Template\src\main.cpp > CMakeFiles\game.dir\src\main.cpp.i
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Project\Template\src\main.cpp > CMakeFiles\game.dir\src\main.cpp.i
 
 CMakeFiles/game.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/game.dir/src/main.cpp.s"
-	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Project\TemplateRaylib\Template\src\main.cpp -o CMakeFiles\game.dir\src\main.cpp.s
+	C:\SFML\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Project\Template\src\main.cpp -o CMakeFiles\game.dir\src\main.cpp.s
 
 # Object files for target game
 game_OBJECTS = \
@@ -109,14 +109,12 @@ game_EXTERNAL_OBJECTS =
 game.exe: CMakeFiles/game.dir/func/dino.cpp.obj
 game.exe: CMakeFiles/game.dir/src/main.cpp.obj
 game.exe: CMakeFiles/game.dir/build.make
-game.exe: _deps/raylib-build/raylib/libraylib.a
-game.exe: _deps/raylib-build/raylib/external/glfw/src/libglfw3.a
 game.exe: CMakeFiles/game.dir/linkLibs.rsp
 game.exe: CMakeFiles/game.dir/objects1.rsp
 game.exe: CMakeFiles/game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Project\TemplateRaylib\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable game.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Project\Template\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable game.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\game.dir\link.txt --verbose=$(VERBOSE)
-	C:\SFML\mingw64\bin\cmake.exe -E copy_directory D:/Project/TemplateRaylib/Template/res D:/Project/TemplateRaylib/Template/build/res
+	C:\SFML\mingw64\bin\cmake.exe -E copy_directory D:/Project/Template/res D:/Project/Template/build/res
 
 # Rule to build all files generated by this target.
 CMakeFiles/game.dir/build: game.exe
@@ -127,6 +125,6 @@ CMakeFiles/game.dir/clean:
 .PHONY : CMakeFiles/game.dir/clean
 
 CMakeFiles/game.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Project\TemplateRaylib\Template D:\Project\TemplateRaylib\Template D:\Project\TemplateRaylib\Template\build D:\Project\TemplateRaylib\Template\build D:\Project\TemplateRaylib\Template\build\CMakeFiles\game.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Project\Template D:\Project\Template D:\Project\Template\build D:\Project\Template\build D:\Project\Template\build\CMakeFiles\game.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/game.dir/depend
 
